@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-i93bs1.pos4dadz.lat/sitemap.xml
